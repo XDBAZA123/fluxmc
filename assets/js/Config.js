@@ -17,7 +17,7 @@ const Config = {
 
 'background': {
 	'type': 'image', // TYPES: IMAGE OR COLOR
-	'value': "assets/img/background.jpg",
+	'value': "assets/img/bg.png",
 	'opacity': {
 		'color': 'black',
 		'value': 0.8
@@ -39,8 +39,8 @@ const Config = {
 		icon: 'assets/img/forum.png',
 		url: 'https://forum.myweb.net'
 	},
-	'Bans': {
-		icon: 'assets/img/bans.png',
+	'Voting': {
+		icon: 'assets/img/vote.png',
 		url: 'https://bans.myweb.net'
 	}
 }
