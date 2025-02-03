@@ -41,7 +41,7 @@ const Config = {
 	},
 	'Voting': {
 		icon: 'assets/img/vote.png',
-		url: 'https://bans.myweb.net'
+		url: 'https://bans.myvotes.net'
 	}
 }
 
