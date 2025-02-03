@@ -3,7 +3,7 @@ const Config = {
 
 'server-logo': 'assets/img/logo.png',
 
-'server-ip': 'mc.minemora.net',
+'server-ip': 'play.fluxmc.fun',
 
 'server-status': {
 	'background-color': '#fff659',
